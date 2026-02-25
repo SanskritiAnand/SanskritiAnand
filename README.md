@@ -13,6 +13,13 @@
 
 ---
 
+## Publications
+
+- **IEEE Publication (2025):** Metaverse on a Decentralized Hyper Parallel Computing Chain — Author
+  - Published on [IEEE Xplore](https://ieeexplore.ieee.org/document/11385883)
+
+---
+
 ## Technical Skills
 
 ### Programming Languages
