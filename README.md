@@ -66,3 +66,8 @@
 ## Contact & Links
 
 Feel free to reach out for collaborations, design projects, or technical discussions!
+
+- **Email:** [sanskritianand46@gmail.com](mailto:sanskritianand46@gmail.com)
+- **Twitter:** [@Sanskriti_eeh](https://x.com/Sanskriti_eeh)
+- **LinkedIn:** [Sanskriti Anand](https://www.linkedin.com/in/sanskritianand46/)
+
