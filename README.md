@@ -22,37 +22,13 @@
 
 ## Technical Skills
 
-### Programming Languages
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- SQL
+- **Programming Languages:** C | C++ | Java | Python | JavaScript | SQL
 
-### Web & Backend Technologies
-- React.js
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- HTML
-- CSS
-- Tailwind CSS
+- **Web & Backend Technologies:** React.js | Node.js | Express.js | REST APIs | MongoDB | HTML | CSS | Tailwind CSS
 
-### Tools & Platforms
-- Git
-- GitHub
-- Linux
-- VS Code
-- Postman
-- Figma
+- **Tools & Platforms:** Git | GitHub | Linux | VS Code | Postman | Figma
 
-### Cloud Computing
-- AWS
-- Docker
-- Deployment pipelines
-- Hosting
+- **Cloud Computing:** AWS | Docker | Deployment pipelines | Hosting
 
 ---
 
